@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="lastSupportFolder" val="C:\Users\remy\AppData\Roaming\SMDataBeta"/>
+  <VALUE name="version" val="Soundminer Plus-5.0.0.204"/>
+  <VALUE name="valuePrefs">
+    <valuePrefs bitDepth="16" sampleRate="48000" daw="    No DAW    " referenceOriginal="0"
+                fileType="wav" interleaved="1" filenameLimit="31.0" useIXMLChannelNames="0"
+                xferPath="C:\Users\remy\Documents" auditionVolume="0.800000011920929"
+                filenameScheme="&lt;Filename:1&gt;" regionNameScheme="&lt;Filename:1&gt;"
+                sumToMono="0" buildFolderStructure="0" useMonoExtension="1" checkIllegals="1"
+                spotIntoStreams="1" autodetectSession="1" spotOntoTrack="1" activateDAW="1"
+                spotAsRegion="0" handleSize="0.0" autoFadeOut="0.0" alteredTag="MOD"
+                alteredPosition="2" embedMetadataOnXfers="1" logScans="0" scanOption="0"
+                crashToStereo="1" selectionTimerPeriod="10" clearPlayHistoryOnLaunch="1"
+                clearMarkHistoryOnLaunch="0" discardChangeOnFocusLost="1" drawBackgroundTexture="1"
+                wildcardSearch="1" xferOption="0" allowScripting="0" vstTail="1.0"
+                decodeMS="1" licenseAgree="0" allowPrefFileColours="1" drawToolbarGradient="1"
+                allowMusicMiner="1"/>
+  </VALUE>
+  <VALUE name="radiumPrefs">
+    <radiumPrefs writeStems="0" bitDepth="24" sampleRate="48000" interleaved="1"
+                 fileType="wav" filenameScheme="RA88_&lt;Filename:1&gt;" daw="ProTools"
+                 filenameLimit="31" checkIllegals="1" xferOption="0" embedMetadataOnXfers="1"
+                 processThruPlugins="1" followMainPrefs="0" useSourceRateDepth="0"
+                 drawPositionLines="1" libraryPath="C:\Users\remy\AppData\Roaming\SMDataBeta\Radium"
+                 lastMidiDevice="Impact GXP49">
+      <controllers/>
+    </radiumPrefs>
+  </VALUE>
+  <VALUE name="orderfield" val=""/>
+  <VALUE name="extraPrefs">
+    <extraPrefs auditionFadeOut="0.009999999776482582" rescanBehavior="1" scanIntoFolders="1"
+                visualizePlayHistory="0" preciseDuration="1" identAudioLevel="-40"
+                identSilenceLevel="-80" identAudioDuration="0.2" identSilenceDuration="0.2"
+                helpVisible="1" viewSpectrum="0" skipsilence="1">
+      <namingpresets>
+        <item name="Filename" value="&lt;Filename:1&gt;"/>
+        <item name="Description &amp; Category" value="&lt;Description:2&gt;_&lt;Category:1&gt;"/>
+        <item name="Description(TitleCase(WordCaps), remove spaces)" value="&lt;Description:wc:ns:1&gt;"/>
+        <item name="Description &amp; Source" value="&lt;Description:2&gt;_&lt;Source:1&gt;"/>
+        <item name="Filename with Pitch" value="&lt;Filename:1&gt;_&lt;Pitch:1&gt;"/>
+      </namingpresets>
+      <ovPrefs viewArtwork="1" viewTimeline="1" viewIdentMarkers="1" viewTrackLabels="1"
+               viewExtraControls="1" viewMarkers="1" waveformDrag="1" zoomLevel="5.0"
+               maxDurationToView="-1.0" verticalZoom="1.0"/>
+      <subscribe/>
+      <relinkpresets/>
+    </extraPrefs>
+  </VALUE>
+  <VALUE name="displayPrefs">
+    <displayPrefs>
+      <filterBrowserFields filter0="Library" filter1="Category" filter2="CDTitle"/>
+      <sidePanelOrder/>
+      <filterBrowserPrefs>
+        <0015b3f4d50a4d1cbacf23fe096ef1f0 filter0="Library" filter1="Category" filter2="CDTitle"/>
+      </filterBrowserPrefs>
+      <dbAccess>
+        <0015b3f4d50a4d1cbacf23fe096ef1f0 accessTime="1653467273280"/>
+      </dbAccess>
+      <browserFieldPrefs>
+        <0015b3f4d50a4d1cbacf23fe096ef1f0>
+          <column width="354" field="Filename" visible="1"/>
+          <column width="742" field="Description" visible="1"/>
+          <column width="234" field="Library" visible="1"/>
+          <column width="87" field="Duration" visible="1"/>
+          <column width="91" field="Usage" visible="1"/>
+          <column width="300" field="CategoryFull" visible="1"/>
+          <column width="56" field="Artwork" visible="0"/>
+        </0015b3f4d50a4d1cbacf23fe096ef1f0>
+      </browserFieldPrefs>
+    </displayPrefs>
+  </VALUE>
+  <VALUE name="clickMode" val="1"/>
+  <VALUE name="hdprefs">
+    <hdprefs>
+      <spottingcolumns>
+        <item id="Title" visible="1" width="200"/>
+        <item id="XferPath" visible="0" width="200"/>
+        <item id="SourcePath" visible="0" width="200"/>
+        <item id="Description" type="md" visible="0" width="200"/>
+        <item id="Category" type="md" visible="0" width="200"/>
+        <item id="Scene" type="md" visible="0" width="200"/>
+        <item id="SuperNote" visible="0" width="200"/>
+      </spottingcolumns>
+    </hdprefs>
+  </VALUE>
+  <VALUE name="v5Prefs">
+    <v5Prefs filterArtwork="1" tableWordWrap="0" tableRowHeight="15.0" tableFontSize="12.0"
+             tableFont="&lt;Sans-Serif&gt;" altRowColors="0" automarkColumn="0"
+             artworkColumn="0" resetPitch="0" clearTermsOnLock="0" displayAllOnLocalDBChange="1"
+             persistantAuditionVolume="0" autoLock="1" autoPlay="1" dirserviceip="10.0.1.1"
+             dirserviceport="4001" useBonjour="1" useS3="0" useHTTP="0" httpurl="http://127.0.0.1/"
+             checkhttp="1" defaultDB="Soundminer_DB" autodetect="1" useLibraryWeighting="1"
+             dspimages="1" spectrumColour="1" recallRackState="1" typeahead="1"
+             typeaheadtabledata="1" typeaheadmetatag="1" typeaheaducs="1"
+             ucslang="Category" ucszoom="1.0" checkDupes="1" sqllimit="100000"
+             tooltipTime="2.5" scanGeo="0" scanShootDate="1" embedGeo="0"
+             cantarMode="0" flacInterop="1" commitRegions="0" httpserver="0"
+             autosuggest="1" mdpanelfollowfieldorder="1" addHTTPParams="1"
+             spotfloating="1" checkForUpdate="0" unifyDSPWindows="0" skipSilenceAudioLevel="-85.0"
+             autoSpin="0" eToEdit="1" leftSummaryOnTextChange="0" rewireAuditionThruCentre="0"
+             filenameSearch="0" useAuditionLevel="1" useThesaurus="0" leftPanelCollapsed="0"
+             defaultDatabase="Valhalla" interfaceLeftPanel="0.0" interfaceRightPanel="0.25"
+             rightPanelCollapsed="0" interfaceWaveHeight="0.0">
+      <mini waveformColour="ffd3d3d3" width="100" height="15"/>
+      <uploadPrefs flac="1" hogCPU="1"/>
+      <currentscreenset>
+        <column field="Filename" width="100"/>
+        <column field="Description" width="800"/>
+        <column field="Source" width="100"/>
+        <column field="Duration" width="100"/>
+        <column field="Category" width="100"/>
+      </currentscreenset>
+      <composite filenameScheme="&lt;Filename:1&gt;" fileType="wav" xferPath="C:\Users\remy\Documents"
+                 filenameLimit="62" spacing="0.2" active="m"/>
+      <dbOrder/>
+      <fieldOrder/>
+      <leftpanelSavedState>
+        <panel>
+          <item name="Category"/>
+          <item name="Usage"/>
+          <item name="Library"/>
+        </panel>
+      </leftpanelSavedState>
+      <searchHistory>
+        <term terms="carrot"/>
+        <term terms="soundly"/>
+        <term terms="carrot"/>
+        <term terms="carrot"/>
+        <term terms="carrot"/>
+        <term terms="FF"/>
+        <term terms="FF"/>
+        <term terms="FF"/>
+        <term terms="FF"/>
+        <term terms="FF"/>
+      </searchHistory>
+      <orderclause>
+        <order orderfield="Library" sortorder="1"/>
+      </orderclause>
+    </v5Prefs>
+  </VALUE>
+  <VALUE name="keymappings">
+    <KEYMAPPINGS basedOnDefaults="1"/>
+  </VALUE>
+  <VALUE name="lastTemplate" val="Music and FX"/>
+  <VALUE name="lastOpenedDB" val="Valhalla"/>
+  <VALUE name="displayFields">
+    <ARRAY>
+      <VALUE val="Filename"/>
+      <VALUE val="Description"/>
+      <VALUE val="Library"/>
+      <VALUE val="Duration"/>
+      <VALUE val="Usage"/>
+      <VALUE val="CategoryFull"/>
+    </ARRAY>
+  </VALUE>
+  <VALUE name="mainWindowWidth" val="2560"/>
+  <VALUE name="mainWindowHeight" val="1369"/>
+  <VALUE name="mainWindowPosX" val="0"/>
+  <VALUE name="mainWindowPosY" val="23"/>
+</PROPERTIES>
