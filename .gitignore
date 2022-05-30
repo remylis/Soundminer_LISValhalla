@@ -1,0 +1,16 @@
+# This .gitignore file should be placed at the root of your project directory
+
+Caches/
+Launchpad/
+Scripts/
+Spotting/
+.crashfile
+dboptions.sqlites
+dbsnapshots.sqlites
+keymappings.xml
+metrics.sqlites
+pluginpresets.sqlites
+radium.sqlites
+savedsearches.xml
+SMHDPrefsWinBeta.xml
+winplugins.sqlites
